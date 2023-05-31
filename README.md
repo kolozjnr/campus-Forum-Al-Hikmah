@@ -29,7 +29,7 @@ You will need PHP, Composer and Node.js. For MacOS I recommend installing them w
    ```
 5. Create a sqlite database file in the database folder
     ```sh
-    touch db.sqlite
+    msql
     ```
 6. Enter your API keys in `.env`
    ```
